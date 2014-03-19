@@ -2,6 +2,7 @@ package tienda_bicis;
 
 public class Bicicleta_ {
 
+	String color;
 	int tamanioRueda;	
 	public String medida;	
 	static final int valorFijo=10;
