@@ -4,4 +4,5 @@ public class Buje {
 
 	private boolean sellado;
 	
+	
 }
